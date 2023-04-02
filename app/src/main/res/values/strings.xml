@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ProjectX</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Message"> Let\'s Have Some Fun</string>
+    <string name="e_mail">Email</string>
+    <string name="password">password</string>
+    <string name="login">Login</string>
+    <string name="swipe_left_for_register">Swipe Left For Register</string>
+    <string name="register">Register</string>
+    <string name="username">Username</string>
+    <string name="re_type_password">Re-enterYour Password</string>
+    <string name="swipe_right_for_login">Swipe right for login</string>
+    <string name="resetpassword">Forgot Password ?</string>
+    <string name="Logout">Logout</string>
+</resources>
